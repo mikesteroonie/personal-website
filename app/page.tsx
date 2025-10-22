@@ -27,6 +27,7 @@ export default function Page() {
         Graduated University of Michigan May 2025, go blue. Currently based out
         of San Francisco. Always open to chat over coffee.
       </p>
+      <p className="mb-4">Reach me at mhykim[at]umich[dot]edu</p>
       <div className="my-8">
         <BlogPosts />
       </div>

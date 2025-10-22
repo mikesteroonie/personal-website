@@ -123,7 +123,6 @@ export default function NowPage() {
           <ExternalLink href="https://nownownow.com/about">
             Derek Sivers' now page movement
           </ExternalLink>
-          . This page is a snapshot of my current focus and interests.
         </p>
       </div>
     </section>
