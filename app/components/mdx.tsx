@@ -73,6 +73,7 @@ function Photo({
           alt={alt}
           width={width}
           height={height}
+          unoptimized
           className="w-full h-auto rounded-md object-cover"
           style={{ maxHeight: maxHeightStyle }}
         />

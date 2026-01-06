@@ -44,6 +44,7 @@ export function Slideshow({
               src={images[0]}
               alt={captions[0] || "Slide 1"}
               fill
+              unoptimized
               className="object-contain"
             />
           </div>
@@ -81,6 +82,7 @@ export function Slideshow({
                 src={src}
                 alt={captions[index] || `Slide ${index + 1}`}
                 fill
+                unoptimized
                 className="object-contain"
               />
             </div>
